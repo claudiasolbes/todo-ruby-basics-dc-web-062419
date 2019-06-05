@@ -1,3 +1,3 @@
 def argue(phrase)
-  return "#{phrase}"
+  puts "#{phrase}"
 end
