@@ -1,5 +1,5 @@
 def division(12, 2)
-  return "#{division}"
+  return "num1/num2"
 end
 
 
