@@ -1,4 +1,6 @@
-
+def division(num1, num2)
+  return "division"
+end
 
 def assign_variable(name)
   return "#{name}"
