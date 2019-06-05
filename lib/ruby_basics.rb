@@ -1,5 +1,5 @@
-def division(12, 2)
-  puts "12/2"
+def division(num1, num2)
+ 
 end
 
 def assign_variable
