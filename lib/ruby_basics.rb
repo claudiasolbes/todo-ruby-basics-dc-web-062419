@@ -6,7 +6,7 @@ def assign_variable(name)
   return "#{name}"
 end
 
-def argue("argument")
+def argue(argument)
   return "#{argument}"
 end
 
@@ -15,13 +15,13 @@ def greeting(greeting, name)
 end
 
 def return_a_value("Nice")
-  
+  return "#{return_a_value}"
 end
 
-def last_evaluated_value
-  
+def last_evaluated_value("expert")
+  return "#{last_evaluated_value}"
 end
 
-def pizza_party
-  
+def pizza_party(topping = "cheese")
+  return "#{pizza_party}"
 end
