@@ -1,9 +1,9 @@
 def division(num1, num2)
-  return "#{division(12, 2)}"
+  
 end
 
-def assign_variable
-  
+def assign_variable(name)
+  return "#{assign_variable}"
 end
 
 def argue
