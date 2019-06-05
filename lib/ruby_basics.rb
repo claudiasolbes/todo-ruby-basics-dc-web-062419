@@ -2,8 +2,8 @@ def division(num1, num2)
   12/2
 end
 
-def assign_variable(name)
-  return "#{name}"
+def assign_variable(value)
+  return "#{value}"
 end
 
 def argue(argument)
