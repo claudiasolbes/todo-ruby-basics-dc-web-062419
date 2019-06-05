@@ -1,3 +1,3 @@
-def argue("phrase")
+def argue(phrase)
   return "#{argue}"
 end
