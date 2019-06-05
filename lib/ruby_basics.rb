@@ -1,4 +1,4 @@
-def division(12, 2)
+def division(num1, num2)
   12/2
 end
 
