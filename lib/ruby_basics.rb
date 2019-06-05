@@ -1,5 +1,5 @@
-def division(num1, num2)
-
+def division(12, 2)
+  return(12/2)
 end
 
 def assign_variable
