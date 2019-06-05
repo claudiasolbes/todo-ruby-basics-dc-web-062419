@@ -1,3 +1,3 @@
-def return_a_value(Nice)
+def return_a_value(nice)
   return "#{return_a_value}"
 end
